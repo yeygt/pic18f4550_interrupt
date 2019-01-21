@@ -1,3 +1,5 @@
+// CCS C Compiler v5.0.51
+
 #define MMCSD_PIN_SELECT  PIN_D2
 #define MMCSD_PIN_SCK     PIN_D4
 #define MMCSD_PIN_MOSI    PIN_D3
